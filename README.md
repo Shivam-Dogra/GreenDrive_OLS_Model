@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project, conducted from January 2024 to April 2024, investigates the primary drivers influencing the adoption of plug-in electric vehicles (PEVs) in the United States. The research focuses on evaluating the impact of environmental, economic, and practical factors on PEV sales, offering actionable insights for policymakers and industry stakeholders to promote sustainable transportation.
+This project investigates the primary drivers influencing the adoption of plug-in electric vehicles (PEVs) in the United States. The research focuses on evaluating the impact of environmental, economic, and practical factors on PEV sales, offering actionable insights for policymakers and industry stakeholders to promote sustainable transportation.
 
 ## Objectives
 
